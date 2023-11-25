@@ -27,4 +27,6 @@ Project Execution:
 Once the code is uploaded and running, the passive buzzer will produce an alarm sound at one-second intervals.
 
 Feel free to adjust the sleep durations in the code to change the frequency and duration of the alarm sound. Additionally, we can customize the code to add more features or complexity based on your preferences.
+#### Reference :
+https://wokwi.com/projects/357627199664450561
 

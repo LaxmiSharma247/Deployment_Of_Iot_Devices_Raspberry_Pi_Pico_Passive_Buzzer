@@ -25,3 +25,4 @@ Project Execution:
 Once the code is uploaded and running, the passive buzzer will produce an alarm sound at one-second intervals.
 
 Feel free to adjust the sleep durations in the code to change the frequency and duration of the alarm sound. Additionally, we can customize the code to add more features or complexity based on your preferences.
+![image](https://github.com/LaxmiSharma247/Deployment_Of_Iot_Devices_Raspberry_Pi_Pico_Passive_Buzzer/assets/112362299/8a8ff3f5-d4ff-42aa-99dd-e96484b4ba99)
